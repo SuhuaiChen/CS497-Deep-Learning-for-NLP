@@ -2,4 +2,4 @@
 
 To see the most up-to-date versions, please go to the colab link provided in each file
 
-The list of files are updating
+The list of files is still updating
