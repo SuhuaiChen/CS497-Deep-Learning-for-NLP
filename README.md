@@ -1,5 +1,3 @@
 # CS497-Deep-Learning-for-NLP
 
-To see the most up-to-date versions, please go to the colab link provided in each file
-
-The list of files is still updating
+The final version of FFNN and LSTM models could be found here: https://github.com/marcowang01/fakes-detection
